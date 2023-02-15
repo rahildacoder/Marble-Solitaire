@@ -1,2 +1,3 @@
 # Marble-Solitaire
-A marble solitaire game with multiple arrangements
+
+A responsive Java marble solitaire game that generates several marble arrangements which can be manipulated based on user input. Uses MVC design pattern.
